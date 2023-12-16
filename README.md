@@ -6,7 +6,7 @@
 # Content
 - [About the project](#About-the-project)
 - [Documentation](#Documentation)
-- [Dowmload](#Download)
+- [Download](#Download)
 - [About on author](#About-on-author)
 
 ---
