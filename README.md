@@ -7,7 +7,7 @@
 - [About the project](#About-the-project)
 - [Documentation](#Documentation)
 - [Download](#Download)
-- [About on author](#About-the-author)
+- [About the author](#About-the-author)
 
 ---
 
