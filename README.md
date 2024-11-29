@@ -17,15 +17,13 @@ Termicom is a Windows command line emulator. It is developed in the Python progr
 ---
 
 # Documentation
-install Termicom can be installed either through github or through the official website \
-[![Vk Badge](https://img.shields.io/badge/-Official%20Site-blue?style=flat&logo=Windows&logoColor=white)](http://termicom.v96209al.beget.tech/) \
+install Termicom can be installed either through github or through the official website \ \
 After this, you will have a 7zip archive installed. Unpack it and launch Termicom. After this, if you do not know the list of commands, then write the command $help
 
 ---
 
 # Download
-You can download Termicom from our website  [![Vk Badge](https://img.shields.io/badge/-Official%20Site-blue?style=flat&logo=Windows&logoColor=white)](http://termicom.v96209al.beget.tech/) \
-Or download Termicom via GitHub [![GH Badge](https://img.shields.io/badge/-Termicom-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/filcher2011/Termicom/tree/main/Termicom)
+Download Termicom via GitHub [![GH Badge](https://img.shields.io/badge/-Termicom-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/filcher2011/Termicom/tree/main/Termicom)
 
 ---
 
